@@ -1,4 +1,4 @@
-import Navbar from "~/components/NAvbar";
+import Navbar from "~/components/Navbar";
 import type { Route } from "./+types/home";
 import { resumes } from "../../constants";
 import ResumeCards from "~/components/ResumeCards";
@@ -18,7 +18,7 @@ export function meta({}: Route.MetaArgs) {
 export default function Home() {
   const {auth} = usePuterStore();
   const navigate = useNavigate();
-  
+
   useEffect(()=> {
     if(!auth.isAuthenticated) navigate('/auth?next=/');
   },[auth.isAuthenticated])
