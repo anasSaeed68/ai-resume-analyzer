@@ -5,7 +5,7 @@ const ScoreBadge = ({ score }: { score: number }) => {
   return (
       <div
           className={cn(
-              "flex flex-row gap-1 items-center px-2 py-0.5 rounded-[96px]",
+              "flex flex-row gap-1 items-center px-2 py-0.5 rounded-[96px] border-2 border-red-400",
               score > 69
                   ? "bg-badge-green"
                   : score > 39
@@ -43,7 +43,7 @@ const CategoryHeader = ({
 }) => {
   return (
       <div className="flex flex-row gap-4 items-center py-2">
-        <p className="text-2xl font-semibold">{title}</p>
+        <p className="text-2xl font-bold text-gray-800">{title}</p>
         <ScoreBadge score={categoryScore} />
       </div>
   );

@@ -102,7 +102,7 @@ export const AccordionHeader: React.FC<AccordionHeaderProps> = ({
                 "rotate-180": isActive,
             })}
             fill="none"
-            stroke="#98A2B3"
+            stroke="#1F2937"
             viewBox="0 0 24 24"
             xmlns="http://www.w3.org/2000/svg"
         >
@@ -130,7 +130,7 @@ export const AccordionHeader: React.FC<AccordionHeaderProps> = ({
       `}
         >
             <div className="flex items-center space-x-3">
-                {iconPosition === "left" && (icon || defaultIcon)}
+                {iconPosition === "left" && (icon || defaultIcon)} 
                 <div className="flex-1">{children}</div>
             </div>
             {iconPosition === "right" && (icon || defaultIcon)}

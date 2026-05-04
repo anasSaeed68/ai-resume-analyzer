@@ -12,8 +12,9 @@ const Auth = () => {
     const location = useLocation();
     const nextPage = location.search.split("next=")[1];
     const navigate = useNavigate();
+
     useEffect(() => {
-        if(auth.isAuthenticated) navigate(nextPage);
+        if(auth.isAuthenticated) navigate(nextPage || "/");
 
     },[auth.isAuthenticated,nextPage])
   return (
