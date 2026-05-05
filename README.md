@@ -1,3 +1,29 @@
+# Resumind 🚀
+
+Resumind is an AI-powered resume analysis platform that helps users improve and optimize their resumes using intelligent AI feedback and modern web technologies.
+
+## ✨ Features
+- AI-powered resume analysis
+- Secure authentication system
+- Modern and responsive UI
+- Fast client-side navigation
+- Type-safe development with TypeScript
+
+## 🛠️ Tech Stack
+- React Router v7
+- TypeScript
+- Puter.js (AI Resume Analyzer & Authentication)
+
+## 🌐 Deployment
+This project is deployed and running in production using Puter Cloud:
+
+```bash
+[npm install](https://resumind-ai-resume-analyzer-9-pqpd8.puter.site/)
+```
+
+## 📌 About the Project
+Resumind combines AI with modern frontend development to deliver an intelligent resume review experience. It uses Puter.js for authentication and AI-powered resume analysis while leveraging React Router v7 and TypeScript for scalability, performance, and maintainability.
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
@@ -43,40 +69,6 @@ npm run build
 ```
 
 ## Deployment
-
-### Docker Deployment
-
-To build and run using Docker:
-
-```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
-```
-
-The containerized application can be deployed to any platform that supports Docker, including:
-
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
 
 ## Styling
 
