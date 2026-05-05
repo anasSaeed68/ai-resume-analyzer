@@ -17,9 +17,9 @@ Resumind is an AI-powered resume analysis platform that helps users improve and 
 ## 🌐 Deployment
 This project is deployed and running in production using Puter Cloud:
 
-```bash
-https://resumind-ai-resume-analyzer-9-pqpd8.puter.site/
-```
+
+[[Resumind](https://resumind-ai-resume-analyzer-9-pqpd8.puter.site/)](https://resumind-ai-resume-analyzer-9-pqpd8.puter.site/)
+
 
 ## 📌 About the Project
 Resumind combines AI with modern frontend development to deliver an intelligent resume review experience. It uses Puter.js for authentication and AI-powered resume analysis while leveraging React Router v7 and TypeScript for scalability, performance, and maintainability.
