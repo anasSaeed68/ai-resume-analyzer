@@ -1,4 +1,13 @@
 # Resumind 🚀
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+
+[![Puter.js](https://img.shields.io/badge/Puter.js-AI%20%26%20Auth-black?style=for-the-badge)](https://puter.com)
+
+[![Authentication Docs](https://img.shields.io/badge/Auth_Docs-Read_Now-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.puter.com)
 
 Resumind is an AI-powered resume analysis platform that helps users improve and optimize their resumes using intelligent AI feedback and modern web technologies.
 
