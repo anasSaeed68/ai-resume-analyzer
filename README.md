@@ -18,7 +18,7 @@ Resumind is an AI-powered resume analysis platform that helps users improve and 
 This project is deployed and running in production using Puter Cloud:
 
 ```bash
-[npm install](https://resumind-ai-resume-analyzer-9-pqpd8.puter.site/)
+https://resumind-ai-resume-analyzer-9-pqpd8.puter.site/
 ```
 
 ## 📌 About the Project
