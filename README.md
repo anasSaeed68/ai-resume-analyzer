@@ -1,4 +1,30 @@
 # Resumind 🚀
+<p align="center">
+  <a href="https://react.dev">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.typescriptlang.org">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://tailwindcss.com">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://puter.com">
+    <img src="https://img.shields.io/badge/Puter.js-AI%20%26%20Auth-black?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://docs.puter.com">
+    <img src="https://img.shields.io/badge/Auth_Docs-Read_Now-blue?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
